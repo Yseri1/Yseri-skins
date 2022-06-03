@@ -1,5 +1,5 @@
 # Yseri-skins
-All of my skins here
+
 
 # [Aristia+Yseri colours edit](https://www.mediafire.com/file/enfgzyrm2haxz8l/Aristia%252BYseri_colours.osk/file)
 ![](https://osu.ppy.sh/ss/17862795/0b8d)
